@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'msdocs-python-postgres-tutorial-yosukey'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5D0AED80A3B3410CB1907AF3D1983858 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_490260587E8B4128AADA9C549E565E6C }}
